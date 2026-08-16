@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     SPDX-FileCopyrightText: The LineageOS Project
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <!-- Height of the IME navigation bar; this matches the height of the system navigation bar
+         in three button navigation mode. -->
+    <dimen name="input_method_navigation_bar_height">0dp</dimen>
+</resources>
